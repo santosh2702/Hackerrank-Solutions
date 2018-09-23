@@ -1,0 +1,1 @@
+RegX=r'hackerrank'
